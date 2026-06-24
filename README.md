@@ -1,5 +1,5 @@
 
-# 🤖 Adaptive AI Tutor
+#  Adaptive AI Tutor
 
 ### An AI-Powered Personalized Learning System
 
@@ -13,7 +13,7 @@ This system continuously:
 
 ---
 
-## ✨ Key Capabilities
+##  Key Capabilities
 
 1. **Knowledge Diagnosis**
    - Identifies student knowledge gaps through intelligent questioning
@@ -36,7 +36,7 @@ This system continuously:
    - Encouraging and supportive interaction style
 
 
-## 🏗 System Architecture Overview
+## System Architecture Overview
 
 ### High-Level Architecture
 
@@ -82,7 +82,7 @@ This system continuously:
 
 ---
 
-## 🧱 Component Details
+##  Component Details
 
 ### Frontend Components
 
@@ -138,7 +138,7 @@ This system continuously:
 
 ---
 
-## 📊 Data Models
+##  Data Models
 
 ### Student Profile
 
@@ -173,7 +173,7 @@ This system continuously:
 
 ---
 
-## 🔄 Data Flow
+##  Data Flow
 
 1. **Initialization**
 
@@ -212,7 +212,7 @@ This system continuously:
 
 ---
 
-## 🚀 Scalability Considerations
+##  Scalability Considerations
 
 For production deployment:
 
@@ -223,24 +223,4 @@ For production deployment:
 5. Introduce monitoring and analytics
 
 ---
-
-## 💡 Value Proposition
-
-### 👩‍🎓 For Students
-
-Personalized learning that adapts to individual pace and style.
-
-### 👨‍🏫 For Educators
-
-Scale personalized instruction with AI assistance.
-
-### 🏫 For Institutions
-
-Improve learning outcomes through data-driven insights.
-
----
-
-## 📄 License
-
-This project is licensed under the **Apache-2.0 license**.
 
