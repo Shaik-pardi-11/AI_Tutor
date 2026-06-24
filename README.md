@@ -201,7 +201,7 @@ This system continuously:
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 * **Framework:** Next.js 14
 * **Frontend:** React 18
